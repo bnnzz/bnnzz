@@ -4,8 +4,6 @@
   <img align="right" src="https://media1.tenor.com/m/g8PKKSi4QyoAAAAC/halo-superintendent.gif" alt="adam-pw" />
 </p>
 
-## My tech stack
-
 ## 🧠 My Tech Stack
 
 <p align="left">
